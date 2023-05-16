@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/DATA-DOG/go-sqlmock"
+	"github.com/piotrkochan/go-sqlmock"
 )
 
 // a successful case
